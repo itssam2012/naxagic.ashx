@@ -1,0 +1,2 @@
+# naxagic.ashx
+naxagcayin ashxatanq
